@@ -1,0 +1,19 @@
+  Is it a mammal?
+Y Does it have hooves?
+N Is it a reptile?
+YY Does it give milk?
+YN Is it a carnivore?
+NY is it venomous?
+NN Mosquito
+YYY Cow
+YYN Horse
+YNY Is it in the dog family?
+YNN Is it large?
+NYY snake
+NYN Crocodile
+NNN ant
+YNYY Dog
+YNYN Cat
+YNNY elephant
+YNNN Mouse
+YNYYN wolf
